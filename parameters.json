@@ -1,0 +1,13 @@
+{
+  "autoEvaluation": {
+    "difficulty": [1, 4, 10, 20],
+    "reactivity": [1, 4, 10, 20]
+  },
+  "peerReview": { "result": [1, 4, 10, 20], "reactivity": [1, 4, 10, 20] },
+  "CEOReview": { "result": [1, 4, 10, 20], "reactivity": [1, 4, 10, 20] },
+  "scoreWeight": {
+    "autoEvaluation": 0.34,
+    "peerReview": 0.33,
+    "CEOReview": 0.33
+  }
+}
